@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="420" viewBox="0 0 660 420" font-family="Helvetica, Arial, sans-serif">
+<rect width="660" height="420" fill="#ffffff"/>
+<text x="330" y="26" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">E3 — Efeito do tamanho do buffer (λ=100, c=4)</text>
+<line x1="78" y1="358.0" x2="638" y2="358.0" stroke="#e6e6e6"/>
+<text x="70" y="362.0" text-anchor="end" font-size="11" fill="#444">0</text>
+<line x1="78" y1="279.0" x2="638" y2="279.0" stroke="#e6e6e6"/>
+<text x="70" y="283.0" text-anchor="end" font-size="11" fill="#444">20</text>
+<line x1="78" y1="200.0" x2="638" y2="200.0" stroke="#e6e6e6"/>
+<text x="70" y="204.0" text-anchor="end" font-size="11" fill="#444">40</text>
+<line x1="78" y1="121.0" x2="638" y2="121.0" stroke="#e6e6e6"/>
+<text x="70" y="125.0" text-anchor="end" font-size="11" fill="#444">60</text>
+<line x1="78" y1="42.0" x2="638" y2="42.0" stroke="#e6e6e6"/>
+<text x="70" y="46.0" text-anchor="end" font-size="11" fill="#444">80</text>
+<line x1="78.0" y1="42" x2="78.0" y2="358" stroke="#f0f0f0"/>
+<text x="78.0" y="376" text-anchor="middle" font-size="11" fill="#444">0</text>
+<line x1="190.0" y1="42" x2="190.0" y2="358" stroke="#f0f0f0"/>
+<text x="190.0" y="376" text-anchor="middle" font-size="11" fill="#444">10</text>
+<line x1="302.0" y1="42" x2="302.0" y2="358" stroke="#f0f0f0"/>
+<text x="302.0" y="376" text-anchor="middle" font-size="11" fill="#444">20</text>
+<line x1="414.0" y1="42" x2="414.0" y2="358" stroke="#f0f0f0"/>
+<text x="414.0" y="376" text-anchor="middle" font-size="11" fill="#444">30</text>
+<line x1="526.0" y1="42" x2="526.0" y2="358" stroke="#f0f0f0"/>
+<text x="526.0" y="376" text-anchor="middle" font-size="11" fill="#444">40</text>
+<line x1="638.0" y1="42" x2="638.0" y2="358" stroke="#f0f0f0"/>
+<text x="638.0" y="376" text-anchor="middle" font-size="11" fill="#444">50</text>
+<line x1="78" y1="358" x2="638" y2="358" stroke="#333"/>
+<line x1="78" y1="42" x2="78" y2="358" stroke="#333"/>
+<text x="358" y="408" text-anchor="middle" font-size="12" fill="#222">Posições de buffer K</text>
+<text transform="translate(18 200) rotate(-90)" text-anchor="middle" font-size="12" fill="#222">DP (%) / MRT (ms)</text>
+<polyline points="134.0,335.7 302.0,356.9 638.0,358.0" fill="none" stroke="#c0392b" stroke-width="2.2"/>
+<circle cx="134.0" cy="335.7" r="3.6" fill="#c0392b"/>
+<circle cx="302.0" cy="356.9" r="3.6" fill="#c0392b"/>
+<circle cx="638.0" cy="358.0" r="3.6" fill="#c0392b"/>
+<line x1="488" y1="56" x2="516" y2="56" stroke="#c0392b" stroke-width="2.4"/>
+<circle cx="502" cy="56" r="3.2" fill="#c0392b"/>
+<text x="522" y="60" font-size="11" fill="#222">DP (%)</text>
+<polyline points="134.0,179.9 302.0,109.1 638.0,96.6" fill="none" stroke="#1f4e79" stroke-width="2.2"/>
+<circle cx="134.0" cy="179.9" r="3.6" fill="#1f4e79"/>
+<circle cx="302.0" cy="109.1" r="3.6" fill="#1f4e79"/>
+<circle cx="638.0" cy="96.6" r="3.6" fill="#1f4e79"/>
+<line x1="488" y1="74" x2="516" y2="74" stroke="#1f4e79" stroke-width="2.4"/>
+<circle cx="502" cy="74" r="3.2" fill="#1f4e79"/>
+<text x="522" y="78" font-size="11" fill="#222">MRT (ms)</text>
+<polyline points="134.0,311.5 302.0,240.8 638.0,228.2" fill="none" stroke="#1e8449" stroke-width="2.2"/>
+<circle cx="134.0" cy="311.5" r="3.6" fill="#1e8449"/>
+<circle cx="302.0" cy="240.8" r="3.6" fill="#1e8449"/>
+<circle cx="638.0" cy="228.2" r="3.6" fill="#1e8449"/>
+<line x1="488" y1="92" x2="516" y2="92" stroke="#1e8449" stroke-width="2.4"/>
+<circle cx="502" cy="92" r="3.2" fill="#1e8449"/>
+<text x="522" y="96" font-size="11" fill="#222">MQT (ms)</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="420" viewBox="0 0 660 420" font-family="Helvetica, Arial, sans-serif">
+<rect width="660" height="420" fill="#ffffff"/>
+<text x="330" y="26" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">E1 — Tempos médios em função da taxa de chegada (c=4, K=20)</text>
+<line x1="78" y1="358.0" x2="638" y2="358.0" stroke="#e6e6e6"/>
+<text x="70" y="362.0" text-anchor="end" font-size="11" fill="#444">0</text>
+<line x1="78" y1="279.0" x2="638" y2="279.0" stroke="#e6e6e6"/>
+<text x="70" y="283.0" text-anchor="end" font-size="11" fill="#444">50</text>
+<line x1="78" y1="200.0" x2="638" y2="200.0" stroke="#e6e6e6"/>
+<text x="70" y="204.0" text-anchor="end" font-size="11" fill="#444">100</text>
+<line x1="78" y1="121.0" x2="638" y2="121.0" stroke="#e6e6e6"/>
+<text x="70" y="125.0" text-anchor="end" font-size="11" fill="#444">150</text>
+<line x1="78" y1="42.0" x2="638" y2="42.0" stroke="#e6e6e6"/>
+<text x="70" y="46.0" text-anchor="end" font-size="11" fill="#444">200</text>
+<line x1="78.0" y1="42" x2="78.0" y2="358" stroke="#f0f0f0"/>
+<text x="78.0" y="376" text-anchor="middle" font-size="11" fill="#444">40</text>
+<line x1="190.0" y1="42" x2="190.0" y2="358" stroke="#f0f0f0"/>
+<text x="190.0" y="376" text-anchor="middle" font-size="11" fill="#444">60</text>
+<line x1="302.0" y1="42" x2="302.0" y2="358" stroke="#f0f0f0"/>
+<text x="302.0" y="376" text-anchor="middle" font-size="11" fill="#444">80</text>
+<line x1="414.0" y1="42" x2="414.0" y2="358" stroke="#f0f0f0"/>
+<text x="414.0" y="376" text-anchor="middle" font-size="11" fill="#444">100</text>
+<line x1="526.0" y1="42" x2="526.0" y2="358" stroke="#f0f0f0"/>
+<text x="526.0" y="376" text-anchor="middle" font-size="11" fill="#444">120</text>
+<line x1="638.0" y1="42" x2="638.0" y2="358" stroke="#f0f0f0"/>
+<text x="638.0" y="376" text-anchor="middle" font-size="11" fill="#444">140</text>
+<line x1="78" y1="358" x2="638" y2="358" stroke="#333"/>
+<line x1="78" y1="42" x2="78" y2="358" stroke="#333"/>
+<text x="358" y="408" text-anchor="middle" font-size="12" fill="#222">Taxa de chegada λ (pkt/s)</text>
+<text transform="translate(18 200) rotate(-90)" text-anchor="middle" font-size="12" fill="#222">Tempo (ms)</text>
+<polyline points="78.0,304.3 190.0,300.8 414.0,258.4 526.0,180.9 638.0,111.0" fill="none" stroke="#1f4e79" stroke-width="2.2"/>
+<circle cx="78.0" cy="304.3" r="3.6" fill="#1f4e79"/>
+<circle cx="190.0" cy="300.8" r="3.6" fill="#1f4e79"/>
+<circle cx="414.0" cy="258.4" r="3.6" fill="#1f4e79"/>
+<circle cx="526.0" cy="180.9" r="3.6" fill="#1f4e79"/>
+<circle cx="638.0" cy="111.0" r="3.6" fill="#1f4e79"/>
+<line x1="488" y1="56" x2="516" y2="56" stroke="#1f4e79" stroke-width="2.4"/>
+<circle cx="502" cy="56" r="3.2" fill="#1f4e79"/>
+<text x="522" y="60" font-size="11" fill="#222">MRT</text>
+<polyline points="78.0,357.0 190.0,353.4 414.0,311.1 526.0,233.6 638.0,163.7" fill="none" stroke="#c0392b" stroke-width="2.2"/>
+<circle cx="78.0" cy="357.0" r="3.6" fill="#c0392b"/>
+<circle cx="190.0" cy="353.4" r="3.6" fill="#c0392b"/>
+<circle cx="414.0" cy="311.1" r="3.6" fill="#c0392b"/>
+<circle cx="526.0" cy="233.6" r="3.6" fill="#c0392b"/>
+<circle cx="638.0" cy="163.7" r="3.6" fill="#c0392b"/>
+<line x1="488" y1="74" x2="516" y2="74" stroke="#c0392b" stroke-width="2.4"/>
+<circle cx="502" cy="74" r="3.2" fill="#c0392b"/>
+<text x="522" y="78" font-size="11" fill="#222">MQT</text>
+</svg>

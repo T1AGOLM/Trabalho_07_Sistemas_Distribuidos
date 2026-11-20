@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="420" viewBox="0 0 660 420" font-family="Helvetica, Arial, sans-serif">
+<rect width="660" height="420" fill="#ffffff"/>
+<text x="330" y="26" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">E1 — Utilização e probabilidade de descarte (c=4, K=20)</text>
+<line x1="78" y1="358.0" x2="638" y2="358.0" stroke="#e6e6e6"/>
+<text x="70" y="362.0" text-anchor="end" font-size="11" fill="#444">0</text>
+<line x1="78" y1="294.8" x2="638" y2="294.8" stroke="#e6e6e6"/>
+<text x="70" y="298.8" text-anchor="end" font-size="11" fill="#444">20</text>
+<line x1="78" y1="231.6" x2="638" y2="231.6" stroke="#e6e6e6"/>
+<text x="70" y="235.6" text-anchor="end" font-size="11" fill="#444">40</text>
+<line x1="78" y1="168.4" x2="638" y2="168.4" stroke="#e6e6e6"/>
+<text x="70" y="172.4" text-anchor="end" font-size="11" fill="#444">60</text>
+<line x1="78" y1="105.2" x2="638" y2="105.2" stroke="#e6e6e6"/>
+<text x="70" y="109.2" text-anchor="end" font-size="11" fill="#444">80</text>
+<line x1="78" y1="42.0" x2="638" y2="42.0" stroke="#e6e6e6"/>
+<text x="70" y="46.0" text-anchor="end" font-size="11" fill="#444">100</text>
+<line x1="78.0" y1="42" x2="78.0" y2="358" stroke="#f0f0f0"/>
+<text x="78.0" y="376" text-anchor="middle" font-size="11" fill="#444">40</text>
+<line x1="190.0" y1="42" x2="190.0" y2="358" stroke="#f0f0f0"/>
+<text x="190.0" y="376" text-anchor="middle" font-size="11" fill="#444">60</text>
+<line x1="302.0" y1="42" x2="302.0" y2="358" stroke="#f0f0f0"/>
+<text x="302.0" y="376" text-anchor="middle" font-size="11" fill="#444">80</text>
+<line x1="414.0" y1="42" x2="414.0" y2="358" stroke="#f0f0f0"/>
+<text x="414.0" y="376" text-anchor="middle" font-size="11" fill="#444">100</text>
+<line x1="526.0" y1="42" x2="526.0" y2="358" stroke="#f0f0f0"/>
+<text x="526.0" y="376" text-anchor="middle" font-size="11" fill="#444">120</text>
+<line x1="638.0" y1="42" x2="638.0" y2="358" stroke="#f0f0f0"/>
+<text x="638.0" y="376" text-anchor="middle" font-size="11" fill="#444">140</text>
+<line x1="78" y1="358" x2="638" y2="358" stroke="#333"/>
+<line x1="78" y1="42" x2="78" y2="358" stroke="#333"/>
+<text x="358" y="408" text-anchor="middle" font-size="12" fill="#222">Taxa de chegada λ (pkt/s)</text>
+<text transform="translate(18 200) rotate(-90)" text-anchor="middle" font-size="12" fill="#222">Percentual (%)</text>
+<polyline points="78.0,252.7 190.0,200.0 414.0,95.4 526.0,55.6 638.0,43.5" fill="none" stroke="#1f4e79" stroke-width="2.2"/>
+<circle cx="78.0" cy="252.7" r="3.6" fill="#1f4e79"/>
+<circle cx="190.0" cy="200.0" r="3.6" fill="#1f4e79"/>
+<circle cx="414.0" cy="95.4" r="3.6" fill="#1f4e79"/>
+<circle cx="526.0" cy="55.6" r="3.6" fill="#1f4e79"/>
+<circle cx="638.0" cy="43.5" r="3.6" fill="#1f4e79"/>
+<line x1="488" y1="56" x2="516" y2="56" stroke="#1f4e79" stroke-width="2.4"/>
+<circle cx="502" cy="56" r="3.2" fill="#1f4e79"/>
+<text x="522" y="60" font-size="11" fill="#222">U</text>
+<polyline points="78.0,358.0 190.0,358.0 414.0,357.1 526.0,344.4 638.0,311.5" fill="none" stroke="#c0392b" stroke-width="2.2"/>
+<circle cx="78.0" cy="358.0" r="3.6" fill="#c0392b"/>
+<circle cx="190.0" cy="358.0" r="3.6" fill="#c0392b"/>
+<circle cx="414.0" cy="357.1" r="3.6" fill="#c0392b"/>
+<circle cx="526.0" cy="344.4" r="3.6" fill="#c0392b"/>
+<circle cx="638.0" cy="311.5" r="3.6" fill="#c0392b"/>
+<line x1="488" y1="74" x2="516" y2="74" stroke="#c0392b" stroke-width="2.4"/>
+<circle cx="502" cy="74" r="3.2" fill="#c0392b"/>
+<text x="522" y="78" font-size="11" fill="#222">DP</text>
+</svg>

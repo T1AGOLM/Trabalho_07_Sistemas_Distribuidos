@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="420" viewBox="0 0 660 420" font-family="Helvetica, Arial, sans-serif">
+<rect width="660" height="420" fill="#ffffff"/>
+<text x="330" y="26" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">E2 — Efeito do número de motores (λ=100, K=20)</text>
+<line x1="78" y1="358.0" x2="638" y2="358.0" stroke="#e6e6e6"/>
+<text x="70" y="362.0" text-anchor="end" font-size="11" fill="#444">0</text>
+<line x1="78" y1="279.0" x2="638" y2="279.0" stroke="#e6e6e6"/>
+<text x="70" y="283.0" text-anchor="end" font-size="11" fill="#444">100</text>
+<line x1="78" y1="200.0" x2="638" y2="200.0" stroke="#e6e6e6"/>
+<text x="70" y="204.0" text-anchor="end" font-size="11" fill="#444">200</text>
+<line x1="78" y1="121.0" x2="638" y2="121.0" stroke="#e6e6e6"/>
+<text x="70" y="125.0" text-anchor="end" font-size="11" fill="#444">300</text>
+<line x1="78" y1="42.0" x2="638" y2="42.0" stroke="#e6e6e6"/>
+<text x="70" y="46.0" text-anchor="end" font-size="11" fill="#444">400</text>
+<line x1="78.0" y1="42" x2="78.0" y2="358" stroke="#f0f0f0"/>
+<text x="78.0" y="376" text-anchor="middle" font-size="11" fill="#444">2</text>
+<line x1="218.0" y1="42" x2="218.0" y2="358" stroke="#f0f0f0"/>
+<text x="218.0" y="376" text-anchor="middle" font-size="11" fill="#444">3</text>
+<line x1="358.0" y1="42" x2="358.0" y2="358" stroke="#f0f0f0"/>
+<text x="358.0" y="376" text-anchor="middle" font-size="11" fill="#444">4</text>
+<line x1="498.0" y1="42" x2="498.0" y2="358" stroke="#f0f0f0"/>
+<text x="498.0" y="376" text-anchor="middle" font-size="11" fill="#444">5</text>
+<line x1="638.0" y1="42" x2="638.0" y2="358" stroke="#f0f0f0"/>
+<text x="638.0" y="376" text-anchor="middle" font-size="11" fill="#444">6</text>
+<line x1="78" y1="358" x2="638" y2="358" stroke="#333"/>
+<line x1="78" y1="42" x2="78" y2="358" stroke="#333"/>
+<text x="358" y="408" text-anchor="middle" font-size="12" fill="#222">Motores de encaminhamento c</text>
+<text transform="translate(18 200) rotate(-90)" text-anchor="middle" font-size="12" fill="#222">MRT (ms) / TP (pkt/s) / U (%)</text>
+<polyline points="78.0,88.1 358.0,308.2 638.0,330.2" fill="none" stroke="#1f4e79" stroke-width="2.2"/>
+<circle cx="78.0" cy="88.1" r="3.6" fill="#1f4e79"/>
+<circle cx="358.0" cy="308.2" r="3.6" fill="#1f4e79"/>
+<circle cx="638.0" cy="330.2" r="3.6" fill="#1f4e79"/>
+<line x1="488" y1="56" x2="516" y2="56" stroke="#1f4e79" stroke-width="2.4"/>
+<circle cx="502" cy="56" r="3.2" fill="#1f4e79"/>
+<text x="522" y="60" font-size="11" fill="#222">MRT (ms)</text>
+<polyline points="78.0,114.4 358.0,334.6 638.0,356.5" fill="none" stroke="#c0392b" stroke-width="2.2"/>
+<circle cx="78.0" cy="114.4" r="3.6" fill="#c0392b"/>
+<circle cx="358.0" cy="334.6" r="3.6" fill="#c0392b"/>
+<circle cx="638.0" cy="356.5" r="3.6" fill="#c0392b"/>
+<line x1="488" y1="74" x2="516" y2="74" stroke="#c0392b" stroke-width="2.4"/>
+<circle cx="502" cy="74" r="3.2" fill="#c0392b"/>
+<text x="522" y="78" font-size="11" fill="#222">MQT (ms)</text>
+<polyline points="78.0,310.6 358.0,279.2 638.0,279.0" fill="none" stroke="#1e8449" stroke-width="2.2"/>
+<circle cx="78.0" cy="310.6" r="3.6" fill="#1e8449"/>
+<circle cx="358.0" cy="279.2" r="3.6" fill="#1e8449"/>
+<circle cx="638.0" cy="279.0" r="3.6" fill="#1e8449"/>
+<line x1="488" y1="92" x2="516" y2="92" stroke="#1e8449" stroke-width="2.4"/>
+<circle cx="502" cy="92" r="3.2" fill="#1e8449"/>
+<text x="522" y="96" font-size="11" fill="#222">TP (pkt/s)</text>
+<polyline points="78.0,279.0 358.0,292.4 638.0,314.1" fill="none" stroke="#8e44ad" stroke-width="2.2"/>
+<circle cx="78.0" cy="279.0" r="3.6" fill="#8e44ad"/>
+<circle cx="358.0" cy="292.4" r="3.6" fill="#8e44ad"/>
+<circle cx="638.0" cy="314.1" r="3.6" fill="#8e44ad"/>
+<line x1="488" y1="110" x2="516" y2="110" stroke="#8e44ad" stroke-width="2.4"/>
+<circle cx="502" cy="110" r="3.2" fill="#8e44ad"/>
+<text x="522" y="114" font-size="11" fill="#222">U (%)</text>
+</svg>
